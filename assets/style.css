@@ -1,5 +1,6 @@
 header{
-    text-align: center;
+    position: fixed;
+    top: 0;
 }
 
 #navbar li{
@@ -17,7 +18,7 @@ figure figcaption{
 
 h2{
     background: blue;
-    color: white;
+    color: yellow;
     text-align: center;
 }
 
@@ -40,8 +41,9 @@ div figcaption{
 }
 
 body{
+    font-family: Arial, Helvetica, sans-serif;
     background-image: url(../assets/images/coral.jpg);
-    margin: 50px;
+    margin: 100px;
 }
 
 form{
